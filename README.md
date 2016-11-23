@@ -1,5 +1,7 @@
 # ROBucket
-'PAGE UNDER CONSTRUCTION'
+```C
+PAGE UNDER CONSTRUCTION
+```
 ## What is it?
 [description] a low-cost operant chamber based on the Arduino microcontroller
 
