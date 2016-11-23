@@ -8,15 +8,15 @@
 
 Other links above:
 
-+ <b>Build instructions</b>  
-STL files for 3D printing 
-(please contact us if any other file formats are needed)
++ <b>Build instructions</b>
+Detailed instructions for assembling your own ROBucket!
 
 + <b>Design files</b>  
-Analysis code written in Python
+Side panel templates for drilling mounting holes
+3D design files for interior operant mount
 
-+ <b>doc</b>  
-Documentation and photos
++ <b>Arduino code</b>  
+Various scripts (Arduino sketches) for different experiment paradigms
 
 ROBucket was designed by a team of researchers at the National Institutes of Health, more info here: http://www.kravitzlab.com/
 
